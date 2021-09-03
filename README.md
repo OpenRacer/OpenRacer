@@ -1,6 +1,6 @@
-Openracer - An open source frame with 3D printed pod for racing and freestyle.
+OpenRacer - An open source frame with 3D printed pod for racing and freestyle.
 
-This design was created from scratch but inspired by the brilliant CampfireQuads frame, which [limon](https://github.com/limonspb) had been flying for 2 years. Since the Campfire frame is not opensource and he wanted to modify the design with small improvements and to add things like support for a Caddx Vista, he decided to create Openracer frame to share with the FPV community. Although this design has been tested by a number of people, we're always looking for ways to improve it. Please feel free to contribute ideas or submit your own designs!
+This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame is not opensource and pilts wanted to imrove the design and to add things like support for a Caddx Vista, it was decided to create OpenRacer frame to share with the FPV community. Although this design has been tested by a number of people, we're always looking for ways to improve it. Please feel free to contribute ideas or submit your own designs!
 
 You can order the frame carbon from [Cyclone FPV](https://www.cyclonefpv.com/collections/cyclone-fpv-frames-and-kits/products/openracer-5-inch-racing-frame) or [CNC Madness](https://cncmadness.com/). We will provide instructions for printing your own pod, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
 
