@@ -1,4 +1,6 @@
 OpenRacer - An open source frame with 3D printed pod for racing and freestyle.
+All the STL and DXF files are listed here in this repo:
+https://github.com/OpenRacer/OpenRacer/tree/master/cad
 
 This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame is not opensource and pilts wanted to imrove the design and to add things like support for a Caddx Vista, it was decided to create OpenRacer frame to share with the FPV community. Although this design has been tested by a number of people, we're always looking for ways to improve it. Please feel free to contribute ideas or submit your own designs!
 
