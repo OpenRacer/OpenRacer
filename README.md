@@ -38,6 +38,8 @@ The analog version works with most of normal 20x20 and 30x30 stacks.
 
 Recommended components for the PRO (lite) version:
 ```
+Arms style: Fatty
+Canopy Style: PRO - predator nano V5
 FC:        Foxeer 20x20 V2
 ESC:       Foxeer Reaper 45A or 60A 20x20
 Camera:    Foxeer Predator nano V5
