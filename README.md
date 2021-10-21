@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=-WxEIBV4bSs
 
 This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame is not opensource and pilts wanted to imrove the design and to add things like support for a Caddx Vista, it was decided to create OpenRacer frame to share with the FPV community. Although this design has been tested by a number of people, we're always looking for ways to improve it. Please feel free to contribute ideas or submit your own designs!
 
-You can order the frame carbon from [Cyclone FPV](https://www.cyclonefpv.com/collections/cyclone-fpv-frames-and-kits/products/openracer-5-inch-racing-frame) or [CNC Madness](https://cncmadness.com/). We will provide instructions for printing your own pod, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
+You can order the frame carbon from [CNC Madness](https://cncmadness.com/). We will provide instructions for printing your own pod, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
 
 Top and Bottom plates: 2.5mm carbon
 Arms: 5mm carbon
