@@ -3,6 +3,9 @@ OpenRacer - An open source frame with 3D printed pod for racing and freestyle.
 All the STL and DXF files are listed here in this repo:
 https://github.com/OpenRacer/OpenRacer/tree/master/cad
 
+Join our Facebook group:
+https://www.facebook.com/groups/640824090407985
+
 Review by Jon E5:
 https://www.youtube.com/watch?v=laAqQoRC8uU
 
