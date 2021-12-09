@@ -11,7 +11,8 @@ STL and DXF files are [here](https://github.com/OpenRacer/OpenRacer/tree/master/
 [Racing full speed no gopro](https://www.youtube.com/watch?v=_SSzJq6VKVc)<br>
 [DJI racing example](https://www.youtube.com/watch?v=-WxEIBV4bSs)<br>
 <hr>
-This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame isn't open source and pilots wanted to improve the design to add features like support for a Caddx Vista, the OpenRacer frame was created to share with the FPV community. This design has been tested thoroughly by the community, but we're still looking for ways to improve it. Please feel free to contribute ideas or submit your own designs through pull requests!
+
+This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame isn't open source and pilots wanted to improve the design to add features like support for a Caddx Vista, the OpenRacer frame was created to share with the FPV community. This design has been tested thoroughly by the community, but we're still looking for ways to improve it. Please contribute ideas or submit your own designs through pull requests!
 
 <p>
 
@@ -55,7 +56,7 @@ All canopies can be printed in 95A shore hardness TPU with the exception of the 
 <h4>Suggested print settings for TPU canopies:</h4>
 
 ```
-1.6mm wall thickness (for 0.4mm nozzle, use 0.53mm line width and 3 perimeters to achieve 1.59mm walls)
+1.6mm wall thickness (for 0.4mm nozzle, use 0.53mm line width and 3 perimeters to achieve 1.59mm walls. 0.6 to 0.8mm nozzles will use 0.8mm line width and 2 perimeters)
 0.2mm layer height recommended, 0.28mm maximum
 30-60% fan speed
 20% infill (gyroid if available)
@@ -95,7 +96,7 @@ RX:        Matching RX for your radio. Ghost, Tracer, ELRS, Crossfire, etc.
 Other:     Optional short race wires like Pyro race wires, zip ties, double side tape, heatshrink
 ```
 
-<h4>Recommended components for the classic version:</h4>
+<h4>Recommended components for the Classic versions:</h4>
 
 ```
 FC:        Clracing F7
