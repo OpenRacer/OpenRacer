@@ -13,6 +13,8 @@ STL and DXF files are [here](https://github.com/OpenRacer/OpenRacer/tree/master/
 <hr>
 This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame isn't open source and pilots wanted to improve the design to add features like support for a Caddx Vista, the OpenRacer frame was created to share with the FPV community. This design has been tested thoroughly by the community, but we're still looking for ways to improve it. Please feel free to contribute ideas or submit your own designs through pull requests!
 
+<p>
+
 You can order the frame carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
 
 <h4>Recommended carbon thickness:</h4>
@@ -73,10 +75,10 @@ Recommended print orientation is with standoff legs on bed. Use care removing su
 ```
 
 The AnalogPro canopy has a slot on top for an optional fin, which can help when using turtle (flip over after crash) mode. It's recommended to print this part in 95A TPU.
-
+<p>
 AnalogSharpClassic and AnalogSmoothClassic versions work with most of normal 20x20 and 30x30 stacks. 
 
-<h4>Recommended components for the PRO (lite) version:</h4>
+<h4>Recommended components for the AnalogPro version:</h4>
 
 ```
 Arms style: Fatty
