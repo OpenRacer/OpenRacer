@@ -1,5 +1,5 @@
-OpenRacer - An open source frame with 3D printed pod for racing and freestyle.
-
+<h3>OpenRacer - An open source frame with 3D printed canopy for racing and freestyle.</h3>
+<hr>
 All the STL and DXF files are listed here in this repo:
 https://github.com/OpenRacer/OpenRacer/tree/master/cad
 
@@ -21,13 +21,13 @@ https://www.youtube.com/watch?v=_SSzJq6VKVc
 DJI racing example:
 https://www.youtube.com/watch?v=-WxEIBV4bSs
 
-This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame is not opensource and pilts wanted to imrove the design and to add things like support for a Caddx Vista, it was decided to create OpenRacer frame to share with the FPV community. Although this design has been tested by a number of people, we're always looking for ways to improve it. Please feel free to contribute ideas or submit your own designs!
+This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame isn't opensource and pilots wanted to improve the design to add features like support for a Caddx Vista, the OpenRacer frame was created to share with the FPV community. Although this design has been tested by a number of people, we're always looking for ways to improve it. Please feel free to contribute ideas or submit your own designs through pull requests!
 
-You can order the frame carbon from [CNC Madness](https://cncmadness.com/). We will provide instructions for printing your own pod, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
+You can order the frame carbon from [CNC Madness](https://cncmadness.com/). We will provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
 
-Top and Bottom plates: 2.5mm carbon
-Arms: 5mm carbon
-Braces: 4mm carbon
+Top and Bottom plates: 2.5mm carbon<br>
+Arms: 5mm carbon<br>
+Braces: 4mm carbon<br>
 
 Required screws, nuts, and standoffs:
 ```
@@ -53,9 +53,31 @@ Extra for 25x25 AIO:
 - M2 Button head 12mm X 4
 ```
 
-The canopy can be printed in 95A shore hardness TPU. Nylon will be a little lighter and a little bit stiffer. We have also started experimenting with Nylon/TPE blends (Taulman PCTPE) which has so far proven to be a good middle ground of component protection and durability. It also can by dyed like normal nylon.
+All canopies can be printed in 95A shore hardness TPU with the exception of the AnalogPro version. The AnalogPro canopy should be printed in Nylon. A Nylon similar to Taulman 645 is preferred, but for printers with PTFE-lined hotends limited to <250C temperatures, Taulman's lower temp alternatives such as Bridge, 230, or PCTPE are also good choices. If you are unfamiliar with Nylon printing, it has some challenges associated. Drying the filament and keeping it dry is very important, but steps for that will not be covered here.
 
-The analog version works with most of normal 20x20 and 30x30 stacks.
+Suggested print settings for TPU canopies:
+```
+1.6mm wall thickness (for 0.4mm nozzle, use 0.53mm line width and 3 perimeters to achieve 1.59mm walls)
+0.2mm layer height recommended, 0.28mm maximum
+30-60% fan speed
+20% infill (gyroid if available)
+Supports are required
+Recommended orientation is with standoff legs on the bed. It's possible to print some canopies on the nose to reduce support material, but this can be tricky and has cosmetic disadvantages.
+```
+
+Suggested print settings for Nylon AnalogPro canopies:
+```
+1.6mm wall thickness (for 0.4mm nozzle, use 0.53mm line width and 3 perimeters to achieve 1.59mm walls. 0.6 to 0.8mm nozzles will use 0.8mm line width and 2 perimeters)
+0.2mm layer height recommended, 0.28mm maximum
+0% fan speed
+20% infill
+Supports are required, but only from build plate
+Recommended print orientation is with standoff legs on bed. Use care removing suports around the antenna holder. 
+```
+
+The AnalogPro canopy has a slot on top for an optional fin, which can help when using turtle (flip over after crash) mode. It's recommended to print this part in 95A TPU.
+
+AnalogSharpClassic and AnalogSmoothClassic versions work with most of normal 20x20 and 30x30 stacks. 
 
 Recommended components for the PRO (lite) version:
 ```
@@ -73,7 +95,6 @@ RX:        Matching RX for your radio. Ghost, Tracer, ELRS, Crossfire, etc.
 Other:     Optional short race wires like Pyro race wires, zip ties, double side tape, heatshrink
 ```
 
-
 Recommended components for the classic version:
 ```
 FC:        Clracing F7
@@ -87,4 +108,3 @@ Antenna:   U.FL TO SMA EXTENSION and small antenna like TrueRc
 RX:        Matching RX for your radio. Ghost, Tracer, ELRS, Crossfire, etc.
 Other:     Optional short race wires like Pyro race wires, zip ties, double side tape, heatshrink
 ```
-
