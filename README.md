@@ -1,29 +1,18 @@
 <h3>OpenRacer - An open source frame with 3D printed canopy for racing and freestyle.</h3>
 <hr>
-All the STL and DXF files are listed here in this repo:
-https://github.com/OpenRacer/OpenRacer/tree/master/cad
 
-Join our Facebook group:
-https://www.facebook.com/groups/640824090407985
-
-Review by Jon E5:
-https://www.youtube.com/watch?v=laAqQoRC8uU
-
-Freestyle example with GP7:
-https://www.youtube.com/watch?v=OqChCLXAk6A
-
-Racing example with GP7:
-https://www.youtube.com/watch?v=VN75sF9umTA
-
-Racing full speed no gopro:
-https://www.youtube.com/watch?v=_SSzJq6VKVc
-
-DJI racing example:
-https://www.youtube.com/watch?v=-WxEIBV4bSs
+Links:<br>
+[All the STL and DXF files are listed here in this repo](https://github.com/OpenRacer/OpenRacer/tree/master/cad)<br>
+[Join our Facebook group](https://www.facebook.com/groups/640824090407985)<br>
+[Review by Jon E5](https://www.youtube.com/watch?v=laAqQoRC8uU)<br>
+[Freestyle example with GP7](https://www.youtube.com/watch?v=OqChCLXAk6A)<br>
+[Racing example with GP7](https://www.youtube.com/watch?v=VN75sF9umTA)<br>
+[Racing full speed no gopro](https://www.youtube.com/watch?v=_SSzJq6VKVc)<br>
+[DJI racing example](https://www.youtube.com/watch?v=-WxEIBV4bSs)<br>
 
 This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame isn't opensource and pilots wanted to improve the design to add features like support for a Caddx Vista, the OpenRacer frame was created to share with the FPV community. Although this design has been tested by a number of people, we're always looking for ways to improve it. Please feel free to contribute ideas or submit your own designs through pull requests!
 
-You can order the frame carbon from [CNC Madness](https://cncmadness.com/). We will provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
+You can order the frame carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
 
 Top and Bottom plates: 2.5mm carbon<br>
 Arms: 5mm carbon<br>
