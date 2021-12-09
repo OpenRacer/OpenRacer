@@ -53,6 +53,9 @@ Extra for 25x25 AIO:
 
 All canopies can be printed in 95A shore hardness TPU with the exception of the AnalogPro version. The AnalogPro canopy should be printed in Nylon. A Nylon similar to Taulman 645 is preferred, but for printers with PTFE-lined hotends limited to <250C temperatures, Taulman's lower temp alternatives such as Bridge, 230, or PCTPE are also good choices. If you are unfamiliar with Nylon printing, it has some challenges associated. Drying the filament and keeping it dry is very important, but steps for that will not be covered here.
 
+![Canopy versions](https://github.com/OpenRacer/OpenRacer/blob/master/img/render_Canopies.png?raw=true)
+
+
 <h4>Suggested print settings for TPU canopies:</h4>
 
 ```
@@ -75,9 +78,18 @@ Supports are required, but only from build plate
 Recommended print orientation is with standoff legs on bed. Use care removing suports around the antenna holder. 
 ```
 
-The AnalogPro canopy has a slot on top for an optional fin, which can help when using turtle (flip over after crash) mode. It's recommended to print this part in 95A TPU.
+<h4>Canopy Accessories:</h4>
+
+The AnalogPro canopy has a slot on top for an optional fin, which can help when using turtle (flip over after crash) mode. It's recommended to print this part in 95A TPU. If a camera locker is available for a canopy, it will be in the CameraLockers folder for the associated canopy. Camera lockers help maintain your camera angle in crashes and also provide some level of protection.
+
 <p>
+
 AnalogSharpClassic and AnalogSmoothClassic versions work with most of normal 20x20 and 30x30 stacks. 
+
+<p>
+
+![TPU AnalogSharpClassic](https://github.com/OpenRacer/OpenRacer/blob/master/img/photo_AnalogSharpClassic_with_camlocker.jpg?raw=true)
+<sub>AnalogSharpClassic with optional GoPro mounts and camera locker.</sub>
 
 <h4>Recommended components for the AnalogPro version:</h4>
 
