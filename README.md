@@ -22,7 +22,7 @@ This design was created from scratch but inspired by the brilliant CampfireQuads
 
 <p>
 
-You can order the frame carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
+Full frame kits and braces are sold by [HypernovaFPV](https://hypernovafpv.com/collections/5-frame-kits/products/openracer-frame). You can also order the carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
 
 <h3>Recommended carbon thickness</h3>
 
