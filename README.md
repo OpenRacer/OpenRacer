@@ -7,7 +7,7 @@ If you would like to support the development of OpenRacer please feel free to ma
 
 [DONATE](https://www.paypal.com/donate/?business=BUEQ8JBU8M42U&no_recurring=0&item_name=Support+OpenRacer+FPV+Frame+Design&currency_code=USD)
 
-<h4>Links:</h4>
+<h3>Useful Links</h3>
 
 STL and DXF files are [here](https://github.com/OpenRacer/OpenRacer/tree/master/cad)<br>
 [Join our Facebook group](https://www.facebook.com/groups/640824090407985)<br>
@@ -24,7 +24,7 @@ This design was created from scratch but inspired by the brilliant CampfireQuads
 
 You can order the frame carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
 
-<h4>Recommended carbon thickness:</h4>
+<h3>Recommended carbon thickness</h3>
 
 ```
 Top and Bottom plates: 2.5mm
@@ -32,7 +32,7 @@ Arms: 5mm
 Braces: 4mm
 ```
 
-<h4>Required screws, nuts, and standoffs:</h4>
+<h3>Required screws, nuts, and standoffs</h3>
 
 ```
 - 8x pressnuts M3 (for top plate)
@@ -62,7 +62,7 @@ All canopies can be printed in 95A shore hardness TPU with the exception of the 
 ![Canopy versions](https://github.com/OpenRacer/OpenRacer/blob/master/img/render_canopies.png?raw=true)
 
 
-<h4>Suggested print settings for TPU canopies:</h4>
+<h3>Suggested print settings for TPU canopies</h3>
 
 ```
 1.6mm wall thickness (for 0.4mm nozzle, use 0.53mm line width and 3 perimeters to achieve 1.59mm walls. 0.6 to 0.8mm nozzles will use 0.8mm line width and 2 perimeters)
@@ -73,7 +73,7 @@ Supports are required
 Recommended orientation is with standoff legs on the bed. It's possible to print some canopies on the nose to reduce support material, but this can be tricky and has cosmetic disadvantages.
 ```
 
-<h4>Suggested print settings for Nylon AnalogPro canopies:</h4>
+<h3>Suggested print settings for Nylon AnalogPro canopies</h3>
 
 ```
 1.6mm wall thickness (for 0.4mm nozzle, use 0.53mm line width and 3 perimeters to achieve 1.59mm walls. 0.6 to 0.8mm nozzles will use 0.8mm line width and 2 perimeters)
@@ -84,7 +84,7 @@ Supports are required, but only from build plate
 Recommended print orientation is with standoff legs on bed. Use care removing suports around the antenna holder. 
 ```
 
-<h4>Canopy Accessories:</h4>
+<h3>Canopy Accessories</h3>
 
 The AnalogPro canopy has a slot on top for an optional fin, which can help when using turtle (flip over after crash) mode. It's recommended to print this part in 95A TPU. If a camera locker is available for a canopy, it will be in the CameraLockers folder for the associated canopy. Camera lockers help maintain your camera angle in crashes and also provide some level of protection.
 
@@ -97,7 +97,7 @@ AnalogSharpClassic and AnalogSmoothClassic versions work with most of normal 20x
 ![TPU AnalogSharpClassic](https://github.com/OpenRacer/OpenRacer/blob/master/img/photo_AnalogSharpClassic_with_camlocker.jpg?raw=true)
 <sub>AnalogSharpClassic with optional GoPro mounts and camera locker.</sub>
 
-<h4>Recommended components for the AnalogPro version:</h4>
+<h3>Recommended components for the AnalogPro version</h3>
 
 ```
 Arms style: Fatty
@@ -114,7 +114,7 @@ RX:        Matching RX for your radio. Ghost, Tracer, ELRS, Crossfire, etc.
 Other:     Optional short race wires like Pyro race wires, zip ties, double side tape, heatshrink
 ```
 
-<h4>Recommended components for the Classic versions:</h4>
+<h3>Recommended components for the Classic versions</h3>
 
 ```
 FC:        Clracing F7
