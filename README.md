@@ -81,7 +81,7 @@ Recommended orientation is with standoff legs on the bed. It's possible to print
 0% fan speed
 20% infill
 Supports are required, but only from build plate
-Recommended print orientation is with standoff legs on bed. Use care removing suports around the antenna holder. 
+Recommended print orientation is with standoff legs on bed. Use care removing supports around the antenna holder. 
 ```
 
 <h3>Canopy Accessories</h3>
