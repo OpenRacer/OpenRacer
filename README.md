@@ -9,7 +9,7 @@ If you would like to support the development of OpenRacer please feel free to ma
 
 <h3>Useful Links</h3>
 
-STL and DXF files are [here](https://github.com/OpenRacer/OpenRacer/tree/master/cad)<br>
+STL and DXF files are [here.](https://github.com/OpenRacer/OpenRacer/tree/master/cad) Carbon files are for 5 inch props unless otherwise specified.<br>
 [Join our Facebook group](https://www.facebook.com/groups/640824090407985)<br>
 [Review by Jon E5](https://www.youtube.com/watch?v=laAqQoRC8uU)<br>
 [Freestyle example with GP7](https://www.youtube.com/watch?v=OqChCLXAk6A)<br>
