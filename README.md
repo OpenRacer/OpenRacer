@@ -1,32 +1,39 @@
-OpenRacer - An open source frame with 3D printed pod for racing and freestyle.
+<h3>OpenRacer - An open source frame with 3D printed canopy for racing and freestyle.</h3>
+<hr>
 
-All the STL and DXF files are listed here in this repo:
-https://github.com/OpenRacer/OpenRacer/tree/master/cad
+<h3>Support OpenRacer</h3>
 
-Review by Jon E5:
-https://www.youtube.com/watch?v=laAqQoRC8uU
+If you would like to support the development of OpenRacer please feel free to make a small donation. This helps us pay for prototyping/testing of carbon and canopies. When you donate, feel free to leave a comment what additions would you like to see next.
 
-Freestyle example with GP7:
-https://www.youtube.com/watch?v=OqChCLXAk6A
+[DONATE](https://www.paypal.com/donate/?business=BUEQ8JBU8M42U&no_recurring=0&item_name=Support+OpenRacer+FPV+Frame+Design&currency_code=USD)
 
-Racing example with GP7:
-https://www.youtube.com/watch?v=VN75sF9umTA
+<h3>Useful Links</h3>
 
-Racing full speed no gopro:
-https://www.youtube.com/watch?v=_SSzJq6VKVc
+STL and DXF files are [here](https://github.com/OpenRacer/OpenRacer/tree/master/cad)<br>
+[Join our Facebook group](https://www.facebook.com/groups/640824090407985)<br>
+[Review by Jon E5](https://www.youtube.com/watch?v=laAqQoRC8uU)<br>
+[Freestyle example with GP7](https://www.youtube.com/watch?v=OqChCLXAk6A)<br>
+[Racing example with GP7](https://www.youtube.com/watch?v=VN75sF9umTA)<br>
+[Racing full speed no gopro](https://www.youtube.com/watch?v=_SSzJq6VKVc)<br>
+[DJI racing example](https://www.youtube.com/watch?v=-WxEIBV4bSs)<br>
+<hr>
 
-DJI racing example:
-https://www.youtube.com/watch?v=-WxEIBV4bSs
+This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame isn't open source and pilots wanted to improve the design to add features like support for a Caddx Vista, the OpenRacer frame was created to share with the FPV community. This design has been tested thoroughly by the community, but we're still looking for ways to improve it. Please contribute ideas or submit your own designs through pull requests!
 
-This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame is not opensource and pilts wanted to imrove the design and to add things like support for a Caddx Vista, it was decided to create OpenRacer frame to share with the FPV community. Although this design has been tested by a number of people, we're always looking for ways to improve it. Please feel free to contribute ideas or submit your own designs!
+<p>
 
-You can order the frame carbon from [CNC Madness](https://cncmadness.com/). We will provide instructions for printing your own pod, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
+Full frame kits and braces are sold by [HyperNova FPV](https://hypernovafpv.com/collections/5-frame-kits/products/openracer-frame). You can also order the carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/)
 
-Top and Bottom plates: 2.5mm carbon
-Arms: 5mm carbon
-Braces: 4mm carbon
+<h3>Recommended carbon thickness</h3>
 
-Required screws, nuts, and standoffs:
+```
+Top and Bottom plates: 2.5mm
+Arms: 5mm
+Braces: 4mm
+```
+
+<h3>Required screws, nuts, and standoffs</h3>
+
 ```
 - 8x pressnuts M3 (for top plate)
 - 4x standoffs 10mm M3 (to mount canopy) rough surface preferably
@@ -50,11 +57,48 @@ Extra for 25x25 AIO:
 - M2 Button head 12mm X 4
 ```
 
-The canopy can be printed in 95A shore hardness TPU. Nylon will be a little lighter and a little bit stiffer. We have also started experimenting with Nylon/TPE blends (Taulman PCTPE) which has so far proven to be a good middle ground of component protection and durability. It also can by dyed like normal nylon.
+All canopies can be printed in 95A shore hardness TPU with the exception of the AnalogPro version. The AnalogPro canopy should be printed in Nylon. A Nylon similar to Taulman 645 is preferred, but for printers with PTFE-lined hotends limited to <250C temperatures, Taulman's lower temp alternatives such as Bridge, 230, or PCTPE are also good choices. If you are unfamiliar with Nylon printing, it has some challenges associated. Drying the filament and keeping it dry is very important, but steps for that will not be covered here.
 
-The analog version works with most of normal 20x20 and 30x30 stacks.
+![Canopy versions](https://github.com/OpenRacer/OpenRacer/blob/master/img/render_canopies.png?raw=true)
 
-Recommended components for the PRO (lite) version:
+
+<h3>Suggested print settings for TPU canopies</h3>
+
+```
+1.6mm wall thickness (for 0.4mm nozzle, use 0.53mm line width and 3 perimeters to achieve 1.59mm walls. 0.6 to 0.8mm nozzles will use 0.8mm line width and 2 perimeters)
+0.2mm layer height recommended, 0.28mm maximum
+30-60% fan speed
+20% infill (gyroid if available)
+Supports are required
+Recommended orientation is with standoff legs on the bed. It's possible to print some canopies on the nose to reduce support material, but this can be tricky and has cosmetic disadvantages.
+```
+
+<h3>Suggested print settings for Nylon AnalogPro canopies</h3>
+
+```
+1.6mm wall thickness (for 0.4mm nozzle, use 0.53mm line width and 3 perimeters to achieve 1.59mm walls. 0.6 to 0.8mm nozzles will use 0.8mm line width and 2 perimeters)
+0.2mm layer height recommended, 0.28mm maximum
+0% fan speed
+20% infill
+Supports are required, but only from build plate
+Recommended print orientation is with standoff legs on bed. Use care removing supports around the antenna holder. 
+```
+
+<h3>Canopy Accessories</h3>
+
+The AnalogPro canopy has a slot on top for an optional fin, which can help when using turtle (flip over after crash) mode. It's recommended to print this part in 95A TPU. If a camera locker is available for a canopy, it will be in the CameraLockers folder for the associated canopy. Camera lockers help maintain your camera angle in crashes and also provide some level of protection.
+
+<p>
+
+AnalogSharpClassic and AnalogSmoothClassic versions work with most of normal 20x20 and 30x30 stacks. 
+
+<p>
+
+![TPU AnalogSharpClassic](https://github.com/OpenRacer/OpenRacer/blob/master/img/photo_AnalogSharpClassic_with_camlocker.jpg?raw=true)
+<sub>AnalogSharpClassic with optional GoPro mounts and camera locker.</sub>
+
+<h3>Recommended components for the AnalogPro version</h3>
+
 ```
 Arms style: Fatty
 Canopy Style: PRO - predator nano V5
@@ -70,8 +114,8 @@ RX:        Matching RX for your radio. Ghost, Tracer, ELRS, Crossfire, etc.
 Other:     Optional short race wires like Pyro race wires, zip ties, double side tape, heatshrink
 ```
 
+<h3>Recommended components for the Classic versions</h3>
 
-Recommended components for the classic version:
 ```
 FC:        Clracing F7
 ESC:       Any 30x30 Blheli32 ESC that is not very big like Spedix, Hobbywing etc. starting from 35A. Be careful, modern 30x30 Aikon and Clracing ESCs are too big. 
@@ -84,4 +128,3 @@ Antenna:   U.FL TO SMA EXTENSION and small antenna like TrueRc
 RX:        Matching RX for your radio. Ghost, Tracer, ELRS, Crossfire, etc.
 Other:     Optional short race wires like Pyro race wires, zip ties, double side tape, heatshrink
 ```
-
