@@ -16,7 +16,7 @@ STL and DXF files are [here.](https://github.com/OpenRacer/OpenRacer/tree/master
 [Racing full speed no gopro](https://www.youtube.com/watch?v=_SSzJq6VKVc)<br>
 [DJI racing example](https://www.youtube.com/watch?v=-WxEIBV4bSs)<br>
 [Review by Jon E5](https://www.youtube.com/watch?v=laAqQoRC8uU)<br>
-[Jon E5 Build video](https://youtu.be/wqulm-HaGHg)<br>
+[Step-by-step build video by Jon E5](https://youtu.be/wqulm-HaGHg)<br>
 <hr>
 
 This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame isn't open source and pilots wanted to improve the design to add features like support for a Caddx Vista, the OpenRacer frame was created to share with the FPV community. This design has been tested thoroughly by the community, but we're still looking for ways to improve it. Please contribute ideas or submit your own designs through pull requests!
