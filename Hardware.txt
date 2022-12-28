@@ -1,18 +1,20 @@
-8x pressnuts M3 (for top plate)
+8x pressnuts M3 (for mid plate)
 4x standoffs 10mm M3 (to mount canopy) rough surface preferably
+2x standoffs 25mm M3 (to mount PRO style canopies)
 M3 plastic nuts X 4 (to secure FC/stack)
 
-Titanium (Grade alloy if titanium not available):
+Stainless Steel (could be grade alloy or titanium):
+M3 Button head 6mm X 4 (secure canopy from the top)
 M3 Button head 12mm X 8 (mount motors through braces and arms)
 M3 Button head 8mm X 4 (mount motors through arms)
-M3 Button head 6mm X 4 (secure canopy from the top)
 
 (12.9 Grage Alloy - the best. 10.9 grade also works.
 Not aluminium, not titanium, not stainless steel)
 M3 Countersunk 16mm X 4 (arm mounting, goes through both plates, pressnut and standoff)
 M3 Countersunk 30mm X 4 (for 30x30 stack, goes through both plates)
 
-Additional hardware for 20x20 stack builds:
+For 20x20 stack builds:
+M3 metal nuts X4 (regular, without nylon)
 M3 Countersunk 12.9 Grade Alloy 12mm X 4 (to lock the arms instead of 30x30 stack screws)
 M3 Button head 20mm X 4 (Titanuim or Grade Alloy) (for 20x20 stack)
 
