@@ -3,14 +3,17 @@
 
 <h3>Support OpenRacer</h3>
 
-If you would like to support the development of OpenRacer please feel free to make a small donation. This helps us pay for prototyping/testing of carbon and canopies. When you donate, feel free to leave a comment what additions would you like to see next.
+If you would like to support the development of OpenRacer please feel free to make a small [donation](https://www.paypal.com/donate/?business=BUEQ8JBU8M42U&no_recurring=0&item_name=Support+OpenRacer+FPV+Frame+Design&currency_code=USD). This helps us pay for prototyping/testing of carbon and canopies. When you donate, feel free to leave a comment what additions would you like to see next.
 
 [DONATE](https://www.paypal.com/donate/?business=BUEQ8JBU8M42U&no_recurring=0&item_name=Support+OpenRacer+FPV+Frame+Design&currency_code=USD)
+
+Full frame kits are sold by [Five33](https://flyfive33.com/product/five33-open-racer-frame-kit/?wpam_id=17) (aff. link). You can also order the carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/). Carbon files are for 5 inch props unless otherwise specified.
 
 <h3>Useful Links</h3>
 
 STL and DXF files are [here.](https://github.com/OpenRacer/OpenRacer/tree/master/cad)<br>
 [Join our Facebook group](https://www.facebook.com/groups/640824090407985)<br>
+[Buy frame at Five33](https://flyfive33.com/product/five33-open-racer-frame-kit/?wpam_id=17)<br>
 [Freestyle example with GP7](https://www.youtube.com/watch?v=OqChCLXAk6A)<br>
 [Racing example with GP7](https://www.youtube.com/watch?v=VN75sF9umTA)<br>
 [Racing full speed no gopro](https://www.youtube.com/watch?v=_SSzJq6VKVc)<br>
@@ -20,10 +23,6 @@ STL and DXF files are [here.](https://github.com/OpenRacer/OpenRacer/tree/master
 <hr>
 
 This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame isn't open source and pilots wanted to improve the design to add features like support for a Caddx Vista, the OpenRacer frame was created to share with the FPV community. This design has been tested thoroughly by the community, but we're still looking for ways to improve it. Please contribute ideas or submit your own designs through pull requests!
-
-<p>
-
-Full frame kits and braces are sold by [Five33](https://flyfive33.com/product/five33-open-racer-frame-kit/?wpam_id=17) (aff. link). You can also order the carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/). Carbon files are for 5 inch props unless otherwise specified.
 
 <h3>Recommended carbon thickness</h3>
 
