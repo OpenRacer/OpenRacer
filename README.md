@@ -23,7 +23,7 @@ This design was created from scratch but inspired by the brilliant CampfireQuads
 
 <p>
 
-Full frame kits and braces are sold by [HyperNova FPV](https://hypernovafpv.com/collections/5-frame-kits/products/openracer-frame). You can also order the carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/). Carbon files are for 5 inch props unless otherwise specified.
+Full frame kits and braces are sold by [Five33](https://flyfive33.com/product/five33-open-racer-frame-kit/?wpam_id=17) (aff. link). You can also order the carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/). Carbon files are for 5 inch props unless otherwise specified.
 
 <h3>Recommended carbon thickness</h3>
 
