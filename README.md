@@ -58,6 +58,8 @@ Extra for 25x25 AIO:
 ```
 
 All canopies can be printed in 95A shore hardness TPU with the exception of the AnalogPro version. The AnalogPro canopy should be printed in Nylon. A Nylon similar to Taulman 645 is preferred, but for printers with PTFE-lined hotends limited to <250C temperatures, Taulman's lower temp alternatives such as Bridge, 230, or PCTPE are also good choices. If you are unfamiliar with Nylon printing, it has some challenges associated. Drying the filament and keeping it dry is very important, but steps for that will not be covered here.
+For PCTPE, a lower bed temp (35C) will help prevent warping.
+Nylon prints should be boiled in water for 5 minutes to restore their flexibility.
 
 ![Canopy versions](https://github.com/OpenRacer/OpenRacer/blob/master/img/render_canopies.png?raw=true)
 
