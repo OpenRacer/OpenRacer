@@ -2,11 +2,7 @@
 These files may be used to create new canopies.
 Not every canopy has an associated Fusion 360 file. To request CAD files please open an issue.
 
-{% note %}
-
 **WARNING:** Create a new folder before opening these files, as they contain many components.
-
-{% endnote %}
 
 ## HDZero Clasic Parametric
 [Download here](HDZero_Tank_V2_Parametric_v3.f3z)
