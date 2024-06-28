@@ -13,7 +13,8 @@ Full frame kits are sold by [Five33](https://flyfive33.com/products/five33-open-
 
 STL and DXF files are [here.](https://github.com/OpenRacer/OpenRacer/tree/master/cad)<br>
 [Join our Facebook group](https://www.facebook.com/groups/640824090407985)<br>
-[Buy frame at Five33](https://flyfive33.com/products/five33-open-racer-frame-kit?wpam_id=17)<br>
+[Buy frame at Five33](https://flyfive33.com/products/five33-open-racer-frame-kit-1?wpam_id=17)<br>
+[Buy frame at ArmattanProductions.com](https://armattanproductions.com/pages/shop_product_grid/7723)<br>
 [Freestyle example with GP7](https://www.youtube.com/watch?v=OqChCLXAk6A)<br>
 [Racing example with GP7](https://www.youtube.com/watch?v=VN75sF9umTA)<br>
 [Racing full speed no gopro](https://www.youtube.com/watch?v=_SSzJq6VKVc)<br>
