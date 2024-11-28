@@ -7,7 +7,7 @@ If you would like to support the development of OpenRacer please feel free to ma
 
 [DONATE](https://www.paypal.com/donate/?business=BUEQ8JBU8M42U&no_recurring=0&item_name=Support+OpenRacer+FPV+Frame+Design&currency_code=USD)
 
-Full frame kits are sold by [Five33](https://flyfive33.com/products/five33-open-racer-frame-kit?wpam_id=17) (aff. link). You can also order the carbon from [CNC Madness](https://cncmadness.com/). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/). Carbon files are for 5 inch props unless otherwise specified.
+Full frame kits are sold by [Five33](https://flyfive33.com/products/five33-open-racer-frame-kit?wpam_id=17) (aff. link). You can also order the carbon from [CNC Madness](https://cncmadness.com/) or [ArmattanProductions.com](https://armattanproductions.com/pages/shop_product_grid/7723). We provide instructions for printing your own canopy, but if you would like one printed we recommend [Phoenix 3D](https://www.phx-3d.com/). Carbon files are for 5 inch props unless otherwise specified.
 
 <h3>Useful Links</h3>
 
