@@ -24,6 +24,9 @@ STL and DXF files are [here.](https://github.com/OpenRacer/OpenRacer/tree/master
 
 This design was created from scratch but inspired by the brilliant CampfireQuads frame. Since the Campfire frame isn't open source and pilots wanted to improve the design to add features like support for a Caddx Vista, the OpenRacer frame was created to share with the FPV community. This design has been tested thoroughly by the community, but we're still looking for ways to improve it. Please contribute ideas or submit your own designs through pull requests!
 
+
+**Note:** A lightweight variant of this frame is available – see [JM OpenRacer Light](JM_OpenRacer_Light_README.md) for details.<br><br>
+
 <h3>Recommended carbon thickness</h3>
 
 ```
